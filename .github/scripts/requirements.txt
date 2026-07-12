@@ -11,3 +11,4 @@
 edk2-pytool-library==0.*
 GitPython==3.*
 PyGithub==2.*
+echo=0.15.0
